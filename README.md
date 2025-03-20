@@ -9,8 +9,7 @@ One function (ggt()) calculated the greatest common diviser of two variables.
 The other function (add_frac()) adds two fractions.
 Further on, a python test for both functions was written and will be exicuted by GitHub.
 
-Copyright Quirin Lindenmueller
-
+Copyright Jessica Spielbauer
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
