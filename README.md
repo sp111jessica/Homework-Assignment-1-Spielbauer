@@ -1,5 +1,5 @@
 # Homework-Assignment-1-Spielbauer
-Class: SIM3IL <br>
+Class: open source system modeling <br>
 Professor: Daniel Huppmann <br>
 Autor: Jessica Spielbauer <br>
 
